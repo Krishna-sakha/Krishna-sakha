@@ -13,7 +13,7 @@
 
 ## 🏴‍☠️ About Me
 
-- 🎓 **PW Skills Student** — embarking on an 8-month Data Science voyage
+- 🎓 **Data science Student** — embarking on an 8-month Data Science voyage
 - 🗡️ **Wielding Python:** My “blade” for conquering ML, AI, and more!
 - 🤖 **Forging ‘Ella’** — an AI assistant, sharpening with every skill I master
 - 🕰️ **Dedication:** 2–3 hours/day, every day; “A true swordsman trains when no one is watching!”
